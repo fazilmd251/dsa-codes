@@ -5,6 +5,6 @@ import strings.problems.StringsManipulation;
 public class Main {
     public static void main(String[] args) {
         StringsManipulation obj=new StringsManipulation();
-        obj.reverseStr();
+        obj.reverseWordInStr("fazil is a developer");
     }
 }
